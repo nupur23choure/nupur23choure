@@ -1,1 +1,56 @@
+<h1 align="center">Nupur Choure</h1>
+<h3 align="center">Data Analyst | Pune, India</h3>
 
+<p align="center">
+Turning raw data into clear insights that drive better business decisions.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nupur-choure-923314390"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a Data Analyst who enjoys finding the story behind the numbers. I work on customer analytics, sales performance and dashboard reporting, and I focus on presenting findings in a way that anyone on a team can understand and act on.
+
+🔎 **Open to Data Analyst opportunities**
+
+## 🧰 Tech Stack
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## 💡 What I Do
+
+- **Customer analytics:** segmenting customers with RFM and identifying churn risk
+- **Sales analysis:** tracking revenue, delivery performance, top products and seasonal occasions
+- **Dashboards:** building interactive Excel and Power BI reports
+- **Exploratory analysis:** using Python to study real-world datasets such as property markets
+
+## 📊 Featured Projects
+
+### 🛍️ [Customer Analytics: RFM Segmentation Dashboard](https://github.com/nupur23choure/Customer-Analytics-RFM-Segmentation-Dashboard)
+Identifies high-value customers and quantifies churn risk for a UK online gift retailer.
+**Tools:** SQL, Python, Power BI
+
+### 🎁 [FNP Sales Analysis](https://github.com/nupur23choure/FNP-Sales-Analysis)
+Interactive Excel dashboard analyzing gift orders by revenue, delivery time, top products and occasions.
+**Tools:** Excel
+
+### 🏙️ [Gurugram Real Estate Analysis](https://github.com/nupur23choure/data_analysis_python_project)
+Python-based analysis of the Gurugram real estate market.
+**Tools:** Python
+
+### 📗 [Excel Data Analysis Projects](https://github.com/nupur23choure/Data_analysis_Excel_projects)
+A collection of Excel projects from basic to advanced, built to strengthen analysis, problem-solving and visualization skills.
+**Tools:** Excel
+
+## 📫 Let's Connect
+
+- LinkedIn: [Nupur Choure](https://www.linkedin.com/in/nupur-choure-923314390)
+- GitHub: [nupur23choure](https://github.com/nupur23choure)

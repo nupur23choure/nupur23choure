@@ -13,7 +13,8 @@ Turning raw data into clear insights that drive better business decisions.
 
 ## 👩‍💻 About Me
 
-I'm a Data Analyst who enjoys finding the story behind the numbers. I work on customer analytics, sales performance and dashboard reporting, and I focus on presenting findings in a way that anyone on a team can understand and act on.
+Hello,
+I'm Nupur, a Data Analyst with a passion for turning raw data into practical, decision-ready insights. I'm eager to keep learning and growing in this field.
 
 🔎 **Open to Data Analyst opportunities**
 

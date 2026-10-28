@@ -1,5 +1,5 @@
 <h1 align="center">Nupur Choure</h1>
-<h3 align="center">Data Analyst | Pune, India</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="center">
 Turning raw data into clear insights that drive better business decisions.
@@ -23,7 +23,7 @@ I'm a Data Analyst who enjoys finding the story behind the numbers. I work on cu
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 💡 What I Do
 
@@ -54,3 +54,4 @@ A collection of Excel projects from basic to advanced, built to strengthen analy
 
 - LinkedIn: [Nupur Choure](https://www.linkedin.com/in/nupur-choure-923314390)
 - GitHub: [nupur23choure](https://github.com/nupur23choure)
+- Email: Chourenupur6@gmail.com

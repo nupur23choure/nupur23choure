@@ -36,26 +36,9 @@ I'm a Data Analyst who enjoys finding the story behind the numbers. I work on cu
 ### 🚀 Currently Building
 End-to-end projects across new domains, each following the same approach: **Problem Statement → Understand → Clean → Analyze → Visualize → Recommend**.
 
-## 📊 Featured Projects
-
-### 🛍️ [Customer Analytics: RFM Segmentation Dashboard](https://github.com/nupur23choure/Customer-Analytics-RFM-Segmentation-Dashboard)
-Identifies high-value customers and quantifies churn risk for a UK online gift retailer.
-**Tools:** SQL, Python, Power BI
-
-### 🎁 [FNP Sales Analysis](https://github.com/nupur23choure/FNP-Sales-Analysis)
-Interactive Excel dashboard analyzing gift orders by revenue, delivery time, top products and occasions.
-**Tools:** Excel
-
-### 🏙️ [Gurugram Real Estate Analysis](https://github.com/nupur23choure/data_analysis_python_project)
-Python-based analysis of the Gurugram real estate market.
-**Tools:** Python
-
-### 📗 [Excel Data Analysis Projects](https://github.com/nupur23choure/Data_analysis_Excel_projects)
-A collection of Excel projects from basic to advanced, built to strengthen analysis, problem-solving and visualization skills.
-**Tools:** Excel
-
 ## 📫 Let's Connect
 
 - LinkedIn: [Nupur Choure](https://www.linkedin.com/in/nupur-choure-923314390)
 - GitHub: [nupur23choure](https://github.com/nupur23choure)
+- HackerRank : [Hackerrank](https://www.hackerrank.com/profile/chourenupur6)
 - Email: Chourenupur6@gmail.com

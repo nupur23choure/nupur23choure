@@ -27,10 +27,14 @@ I'm a Data Analyst who enjoys finding the story behind the numbers. I work on cu
 
 ## 💡 What I Do
 
-- **Customer analytics:** segmenting customers with RFM and identifying churn risk
-- **Sales analysis:** tracking revenue, delivery performance, top products and seasonal occasions
-- **Dashboards:** building interactive Excel and Power BI reports
-- **Exploratory analysis:** using Python to study real-world datasets such as property markets
+- **Data cleaning and preparation:** handling missing values, duplicates and inconsistent formats to build accurate, analysis-ready datasets
+- **Business analysis:** answering questions like who your best customers are, which products drive revenue, and where churn risk sits
+- **Customer and sales analytics:** RFM segmentation, revenue tracking, delivery performance and seasonal trends
+- **Exploratory analysis in Python:** finding patterns in real-world datasets such as property markets
+- **Dashboards and reporting:** interactive Excel and Power BI reports that turn numbers into decisions
+
+### 🚀 Currently Building
+End-to-end projects across new domains, each following the same approach: **Problem Statement → Understand → Clean → Analyze → Visualize → Recommend**.
 
 ## 📊 Featured Projects
 

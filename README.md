@@ -25,7 +25,7 @@ I'm a Data Analyst who enjoys finding the story behind the numbers. I work on cu
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-🏅 𝗛𝗮𝗰𝗸𝗲𝗿𝗥𝗮𝗻𝗸 𝗦𝗤𝗟 𝟱 𝗦𝘁𝗮𝗿 𝗚𝗼𝗹𝗱 𝗕𝗮𝗱𝗴𝗲
+🏅 𝗛𝗮𝗰𝗸𝗲𝗿𝗥𝗮𝗻𝗸 𝗦𝗤𝗟 𝟱 𝗦𝘁𝗮𝗿 𝗚𝗼𝗹𝗱 𝗕𝗮𝗱𝗴𝗲<br>
 🏅 𝗛𝗮𝗰𝗸𝗲𝗿𝗥𝗮𝗻𝗸 **Python** 𝟱 𝗦𝘁𝗮𝗿 𝗚𝗼𝗹𝗱 𝗕𝗮𝗱𝗴𝗲
 
 ## 💡 What I Do

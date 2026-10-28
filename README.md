@@ -1,5 +1,5 @@
 <h1 align="center">Nupur Choure</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Analyst From India</h3>
 
 <p align="center">
 Turning raw data into clear insights that drive better business decisions.

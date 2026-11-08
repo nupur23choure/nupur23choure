@@ -45,4 +45,4 @@ End-to-end projects across new domains, each following the same approach: **Prob
 - LinkedIn: [Nupur Choure](https://www.linkedin.com/in/nupur-choure-923314390)
 - GitHub: [nupur23choure](https://github.com/nupur23choure)
 - HackerRank : [Hackerrank](https://www.hackerrank.com/profile/chourenupur6)
-- Email: Chourenupur6@gmail.com
+- Email: nupur.choure1@gmail.com
